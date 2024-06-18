@@ -1,6 +1,15 @@
 # Welcome to Faubion Street Tools! 
 
-#Remix Framework
+## Purpose
+
+First, I have a strong interest in real estate and real estate investing and wanted to make a tool that would help me analyze rental properties before I buy.
+Second, I wanted to create a technical project that accurately depicts my technical skills and would also challenge me to learn new skills.
+
+## Disclaimer
+
+Please ignore my poor designs and focus more on the functionality of the project. I am NOT a designer and will reskin the project when I have more time.
+
+# Remix Framework
 
 - 📖 [Remix docs](https://remix.run/docs)
 
